@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\13.WorkHours\bin\Debug\13.WorkHours.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\13.WorkHours\bin\Debug\13.WorkHours.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\13.WorkHours\obj\Debug\13.WorkHours.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\13.WorkHours\obj\Debug\13.WorkHours.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\12.FallingRocks\obj\Debug\12.FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\03.InputOutputConsole\03.InputOutputConsole\12.FallingRocks\obj\Debug\12.FallingRocks.pdb
