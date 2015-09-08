@@ -4,7 +4,6 @@ using System.Threading;
 class FallingRocks
 {
     static string[] rockScreen = new string[Console.WindowHeight - 1];
-    static ConsoleColor[] colors = { ConsoleColor.Black, ConsoleColor.Blue, ConsoleColor.Red, ConsoleColor.White };
     static Random random = new Random(DateTime.Now.Millisecond);
     static int dwarfPosition = Console.WindowWidth / 2;
     static int score = 0;
